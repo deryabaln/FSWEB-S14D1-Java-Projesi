@@ -1,4 +1,4 @@
-package com.workintech.interitance.company;
+package com.workintech.inheritance.company;
 
 public class MidDeveloper extends Employee{
     public MidDeveloper(long id, String name) {

@@ -1,4 +1,4 @@
-package com.workintech.interitance.mathModel;
+package com.workintech.inheritance.mathModel;
 
 public class Circle {
     private double radius;

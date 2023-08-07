@@ -1,4 +1,4 @@
-package com.workintech.interitance.mathModel;
+package com.workintech.inheritance.mathModel;
 
 public class Rectangle {
     private double width;

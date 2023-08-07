@@ -1,6 +1,6 @@
-package com.workintech.interitance.main;
+package com.workintech.inheritance.main;
 
-import com.workintech.interitance.company.*;
+import com.workintech.inheritance.company.*;
 
 import java.util.Arrays;
 

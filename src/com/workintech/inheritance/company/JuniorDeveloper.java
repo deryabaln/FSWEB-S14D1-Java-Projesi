@@ -1,4 +1,4 @@
-package com.workintech.interitance.company;
+package com.workintech.inheritance.company;
 
 public class JuniorDeveloper extends Employee{
     public JuniorDeveloper(long id, String name) {

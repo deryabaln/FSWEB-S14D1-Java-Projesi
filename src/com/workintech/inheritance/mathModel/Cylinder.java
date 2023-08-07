@@ -1,4 +1,4 @@
-package com.workintech.interitance.mathModel;
+package com.workintech.inheritance.mathModel;
 
 public class Cylinder extends Circle{
     private  double height;

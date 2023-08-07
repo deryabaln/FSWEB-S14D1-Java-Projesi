@@ -1,4 +1,4 @@
-package com.workintech.interitance.company;
+package com.workintech.inheritance.company;
 
 public class HRManager extends Employee{
    private JuniorDeveloper[] juniorDevelopers;

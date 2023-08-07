@@ -1,9 +1,9 @@
-package com.workintech.interitance.main;
+package com.workintech.inheritance.main;
 
-import com.workintech.interitance.mathModel.Circle;
-import com.workintech.interitance.mathModel.Cuboid;
-import com.workintech.interitance.mathModel.Cylinder;
-import com.workintech.interitance.mathModel.Rectangle;
+import com.workintech.inheritance.mathModel.Circle;
+import com.workintech.inheritance.mathModel.Cuboid;
+import com.workintech.inheritance.mathModel.Cylinder;
+import com.workintech.inheritance.mathModel.Rectangle;
 
 public class Main {
     public static void main(String[] args) {
